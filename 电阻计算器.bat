@@ -1,0 +1,1 @@
+start javaw -jar jar\v1.0.jar
